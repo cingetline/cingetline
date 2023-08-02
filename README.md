@@ -65,8 +65,10 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/cingetline/count.svg">  
 
-counting of visitors to this page in this section started from Aug 2, 2023
-<a href="https://info.flagcounter.com/e0ZS"><img src="https://s01.flagcounter.com/countxl/e0ZS/bg_FFFFFF/txt_000000/border_50C0CC/columns_7/maxflags_60/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
+counting of visitors to this page in this section started from Aug 2, 2023 
+<a href="https://info.flagcounter.com/J2pd"><img src="https://s01.flagcounter.com/count2/J2pd/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 
 ![](https://count.getloli.com/get/@cingetline.github.readme)
