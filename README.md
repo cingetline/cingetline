@@ -1,7 +1,6 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+HZW;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
 
-![](assets/Bottom_up.svg)
 
 <!--   my-header-img -->
 ![](./src/header_.png)
@@ -45,8 +44,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cingetline"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake -->
 ![](https://github.com/cingetline/cingetline/blob/output/github-contribution-grid-snake.svg)
@@ -57,37 +54,6 @@
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cingetline" width="auto"></img>
-
-
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cingetline" alt="cingetline" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 
 
 
@@ -130,9 +96,8 @@ graph TD;
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/cingetline/count.svg">  
 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
+counting of visitors to this page in this section started from Aug 2, 2023
+<a href="https://info.flagcounter.com/e0ZS"><img src="https://s01.flagcounter.com/countxl/e0ZS/bg_FFFFFF/txt_000000/border_50C0CC/columns_7/maxflags_60/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 ## Star History
 
@@ -141,7 +106,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from Aug 2, 2023
 
 ![](https://count.getloli.com/get/@cingetline.github.readme)
 </br>
