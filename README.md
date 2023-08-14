@@ -77,7 +77,7 @@ counting of visitors to this page in this section started from Aug 2, 2023
 </p>
 
 <!-- - My Company-->
-### My Loaction
+### My Location
  ```geojson
 {
  "type": "FeatureCollection",
